@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFactory_C#", "20241217_hw1\SmartFactory_C#.csproj", "{B9F0CE78-35D1-4EF1-8EB2-7ED404DDF473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F0CE78-35D1-4EF1-8EB2-7ED404DDF473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F0CE78-35D1-4EF1-8EB2-7ED404DDF473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F0CE78-35D1-4EF1-8EB2-7ED404DDF473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F0CE78-35D1-4EF1-8EB2-7ED404DDF473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
